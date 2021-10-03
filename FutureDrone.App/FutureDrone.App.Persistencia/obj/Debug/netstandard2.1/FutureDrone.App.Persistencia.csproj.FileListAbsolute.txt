@@ -1,0 +1,11 @@
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Persistencia.deps.json
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Persistencia.dll
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Persistencia.pdb
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Dominio.dll
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Dominio.pdb
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.csprojAssemblyReference.cache
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.AssemblyInfoInputs.cache
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.AssemblyInfo.cs
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.csproj.CopyComplete
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.dll
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.pdb

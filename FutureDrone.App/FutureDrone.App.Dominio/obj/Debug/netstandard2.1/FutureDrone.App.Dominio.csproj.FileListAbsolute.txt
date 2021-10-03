@@ -1,0 +1,8 @@
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Dominio\obj\Debug\netstandard2.1\FutureDrone.App.Dominio.csprojAssemblyReference.cache
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Dominio\obj\Debug\netstandard2.1\FutureDrone.App.Dominio.AssemblyInfoInputs.cache
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Dominio\obj\Debug\netstandard2.1\FutureDrone.App.Dominio.AssemblyInfo.cs
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Dominio\bin\Debug\netstandard2.1\FutureDrone.App.Dominio.deps.json
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Dominio\bin\Debug\netstandard2.1\FutureDrone.App.Dominio.dll
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Dominio\bin\Debug\netstandard2.1\FutureDrone.App.Dominio.pdb
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Dominio\obj\Debug\netstandard2.1\FutureDrone.App.Dominio.dll
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Dominio\obj\Debug\netstandard2.1\FutureDrone.App.Dominio.pdb
