@@ -6,14 +6,14 @@ namespace FutureDrone.App.Persistencia
 {
     public class AppContext : DbContext
     {
-        public DbSet<Ciudad> Ciudad{get;set;}
-        public DbSet<Cliente> Cliente{get;set;}
-        public DbSet<Drone> Drone{get;set;}
-        public DbSet<Empleado> Empleado{get;set;}
-        public DbSet<Encuesta> Encuesta{get;set;}
-        public DbSet<Envio> Envio{get;set;}
-        public DbSet<Usuario> Usuario{get;set;}
-        public DbSet<Empresa> Empresa{get;set;}
+        public DbSet<Ciudad> Ciudades{get;set;}
+        public DbSet<Cliente> Clientes{get;set;}
+        public DbSet<Drone> Drones{get;set;}
+        public DbSet<Empleado> Empleados{get;set;}
+        public DbSet<Encuesta> Encuestas{get;set;}
+        public DbSet<Envio> Envios{get;set;}
+        public DbSet<Usuario> Usuarios{get;set;}
+        public DbSet<Empresa> Empresas{get;set;}
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
