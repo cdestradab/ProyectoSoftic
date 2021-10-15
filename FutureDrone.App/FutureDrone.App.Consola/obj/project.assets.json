@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Consola\\FutureDrone.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\Cristian Estrada\\Desktop\\ProyectoSoftic1\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Consola\\FutureDrone.App.Consola.csproj",
       "projectName": "FutureDrone.App.Consola",
-      "projectPath": "C:\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Consola\\FutureDrone.App.Consola.csproj",
+      "projectPath": "C:\\Users\\Cristian Estrada\\Desktop\\ProyectoSoftic1\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Consola\\FutureDrone.App.Consola.csproj",
       "packagesPath": "C:\\Users\\Cristian Estrada\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Consola\\obj\\",
+      "outputPath": "C:\\Users\\Cristian Estrada\\Desktop\\ProyectoSoftic1\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristian Estrada\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5820,11 +5820,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Dominio\\FutureDrone.App.Dominio.csproj": {
-              "projectPath": "C:\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Dominio\\FutureDrone.App.Dominio.csproj"
+            "C:\\Users\\Cristian Estrada\\Desktop\\ProyectoSoftic1\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Dominio\\FutureDrone.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Cristian Estrada\\Desktop\\ProyectoSoftic1\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Dominio\\FutureDrone.App.Dominio.csproj"
             },
-            "C:\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Persistencia\\FutureDrone.App.Persistencia.csproj": {
-              "projectPath": "C:\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Persistencia\\FutureDrone.App.Persistencia.csproj"
+            "C:\\Users\\Cristian Estrada\\Desktop\\ProyectoSoftic1\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Persistencia\\FutureDrone.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\Cristian Estrada\\Desktop\\ProyectoSoftic1\\ProyectoSoftic\\FutureDrone.App\\FutureDrone.App.Persistencia\\FutureDrone.App.Persistencia.csproj"
             }
           }
         }

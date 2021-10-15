@@ -1,0 +1,71 @@
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.exe
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.deps.json
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.runtimeconfig.json
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.runtimeconfig.dev.json
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.dll
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.pdb
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.Views.dll
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.Views.pdb
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.csprojAssemblyReference.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorAssemblyInfo.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorAssemblyInfo.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.AssemblyInfoInputs.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.AssemblyInfo.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.TagHelpers.input.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.TagHelpers.output.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorCoreGenerate.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.Views.pdb
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FutureDrone.App.Frontend.StaticWebAssets.Manifest.cache
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FutureDrone.App.Frontend.StaticWebAssets.xml
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.dll
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.pdb
+C:\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.csproj.CopyComplete
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.exe
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.deps.json
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.runtimeconfig.json
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.runtimeconfig.dev.json
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.dll
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.pdb
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.Views.dll
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\FutureDrone.App.Frontend.Views.pdb
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.AssemblyInfo.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.TagHelpers.input.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.TagHelpers.output.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.Views.pdb
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FutureDrone.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\FutureDrone.App.Frontend.StaticWebAssets.xml
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.dll
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.pdb
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\FutureDrone.App.Frontend.csproj.CopyComplete
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Registrar\Edit.cshtml.g.cs

@@ -9,3 +9,14 @@ C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstan
 C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.csproj.CopyComplete
 C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.dll
 C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.pdb
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.dll
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.pdb
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Persistencia.deps.json
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Persistencia.dll
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Persistencia.pdb
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Dominio.dll
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\bin\Debug\netstandard2.1\FutureDrone.App.Dominio.pdb
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.AssemblyInfo.cs
+C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Persistencia\obj\Debug\netstandard2.1\FutureDrone.App.Persistencia.csproj.CopyComplete
