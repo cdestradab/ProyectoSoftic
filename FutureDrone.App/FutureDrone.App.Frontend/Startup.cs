@@ -24,6 +24,8 @@ namespace FutureDrone.App.Frontend
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+  /*          services.AddDbContext<FutureDrone.App.Persistencia.AppContext>(); */
+            services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,6 +44,8 @@ namespace FutureDrone.App.Frontend
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
+            app.UseAuthentication();
 
             app.UseRouting();
 

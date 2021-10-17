@@ -3,73 +3,21 @@
 @{
     ViewData["Title"] = "Home page";
 }
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.88.1">
-    <title>Tu Drone Seguro · Softic</title>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sign-in/">
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
 
-    
-
-    <!-- Bootstrap core CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
-
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
-
-      @@media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
+@if (User.Identity.IsAuthenticated)
+{
+    <table class="table table-sm">
+        @foreach (var claim in User.Claims)
+        {
+            <tr>
+                <td>@claim.Type</td>
+                <td>@claim.Value</td>
+            </tr>
         }
-      }
-    </style>
-
-    
-    <!-- Custom styles for this template -->
-    <link rel="stylesheet" href="~/css/signIn.css" />
-
-  </head>
-  <body class="text-center">
-    <div class="container">
-      <main class="form-signin">
-        <form>
-          <img class="mb-4" src="~/img/softic_1.svg" alt="" width="150" height="105">
-          <h1 class="h3 mb-3 fw-normal">Inicio de sesión</h1>
-
-          <div class="form-floating">
-            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-            <label for="floatingInput">Usuario</label>
-          </div>
-          <div class="form-floating">
-            <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-            <label for="floatingPassword">Password</label>
-          </div>
-
-          <div class="checkbox mb-3">
-            <label>
-              <input type="checkbox" value="remember-me"> Recuérdame
-            </label>
-          </div>
-          <img class="mb-4" src="~/img/drone.svg" alt="" width="72" height="57">
-
-          <!-- <button class="w-100 btn btn-lg btn-primary" type="submit" >Ingresar al sistema</button> -->
-          <a asp-page="/Registrar/Edit" class="w-100 btn btn-lg btn-primary" role="button" >Ingresar al Sistema</a>
-        
-        </form>
-      </main>
-    </div>
-  </body>
-</html>
+    </table>
+}

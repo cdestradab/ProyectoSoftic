@@ -63,13 +63,6 @@ C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\bin\Debug\netcoreapp3.
 C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\bin\Debug\netcoreapp3.1\FutureDrone.App.Persistencia.dll
 C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\bin\Debug\netcoreapp3.1\FutureDrone.App.Persistencia.pdb
 <<<<<<< HEAD
-C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\bin\Debug\netcoreapp3.1\FutureDrone.App.Dominio.pdb
-C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\obj\Debug\netcoreapp3.1\FutureDrone.App.Consola.csprojAssemblyReference.cache
-C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\obj\Debug\netcoreapp3.1\FutureDrone.App.Consola.AssemblyInfoInputs.cache
-C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\obj\Debug\netcoreapp3.1\FutureDrone.App.Consola.AssemblyInfo.cs
-C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\obj\Debug\netcoreapp3.1\FutureDrone.App.Consola.csproj.CopyComplete
-C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\obj\Debug\netcoreapp3.1\FutureDrone.App.Consola.dll
-C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\obj\Debug\netcoreapp3.1\FutureDrone.App.Consola.pdb
 C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\obj\Debug\netcoreapp3.1\FutureDrone.App.Consola.dll
 C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\obj\Debug\netcoreapp3.1\FutureDrone.App.Consola.pdb
 C:\Users\Cristian Estrada\Desktop\ProyectoSoftic1\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Consola\bin\Debug\netcoreapp3.1\FutureDrone.App.Consola.exe

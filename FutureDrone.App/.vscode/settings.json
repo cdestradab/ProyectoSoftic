@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f0296e41-6207-4be1-b800-893cec3dff41/resourceGroups/MisionTIC2022/providers/Microsoft.Web/sites/FutureDroneApp",
+    "appService.deploySubpath": "FutureDrone.App.Frontend\\publish"
+}
