@@ -239,3 +239,8 @@ C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3
 C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\publish\web.config
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\publish\FutureDrone.App.Frontend.deps.json
+C:\ProyectoSoftic\FutureDrone.App\FutureDrone.App.Frontend\bin\Debug\netcoreapp3.1\publish\FutureDrone.App.Frontend.runtimeconfig.json
