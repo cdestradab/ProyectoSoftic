@@ -1,0 +1,90 @@
+
+/* Column 4/12 */
+.pb-3 .col-md-4{
+  transform:translatex(0px) translatey(0px);
+  border-width:0px;
+ }
+ 
+ /* Row */
+ .containerBody .pb-3 .row{
+  transform:translatex(0px) translatey(0px);
+  justify-content:center;
+ }
+ 
+ /* Seccion importante */
+ #account .seccionImportante{
+  display:flex;
+  clear:none;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+ }
+ 
+ /* Heading */
+ .containerBody .pb-3 h1{
+  transform:translatex(0px) translatey(0px);
+ }
+ 
+ /* Heading */
+ #account h4{
+  justify-content:flex-start;
+ }
+ 
+ @media (min-width:768px){
+ 
+  /* Column 4/12 */
+  .pb-3 .col-md-4{
+   max-width:auto;
+  }
+  
+ }
+
+/*
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 5px;
+    margin: auto;
+  }
+  
+  .form-signin .checkbox {
+    font-weight: 400;
+  }
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom: 5px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  
+  .col-md-4{
+    width: 100%;
+
+
+
+  }
+  */

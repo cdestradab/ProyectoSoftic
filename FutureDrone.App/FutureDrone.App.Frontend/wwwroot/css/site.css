@@ -66,8 +66,8 @@ body {
 .containerBody {
   width: 100%;
   max-width: none;
-  margin-left: 2px;
-  margin-right: 2px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .footer {
